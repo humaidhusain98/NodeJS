@@ -1,0 +1,15 @@
+{
+  "name": "node_postgresql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "fulltable": "node fullTable.js"
+  },
+  "author": "Humaid",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
