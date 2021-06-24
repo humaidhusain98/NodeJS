@@ -1,0 +1,16 @@
+> wallet
+{
+  address: '0x0f190d50D53816523a06E4455205C3020299055E',
+  privateKey: '0x7b081f5e629550c59d7ce5de14c4c1bfd3778b9d5c70dddd78177b3e629ea195',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]
+}
+
+{
+  address: '0xefdAed47099c11569490791BDD8E31EfdCF530D6',
+  privateKey: '0x5c2964c145d738060f1e8568ef29251b4c56559dba62c5b51b4d0eea48c9daa1',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]
+}
